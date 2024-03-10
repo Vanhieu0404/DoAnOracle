@@ -1,0 +1,87 @@
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Login.exe.config
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Login.exe
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Login.pdb
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.DangNhap.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.TrangChinh.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.exe
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.pdb
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Text.Json.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.ValueTuple.dll
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Text.Json.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kingg\source\repos\Login\Login\bin\Debug\System.ValueTuple.xml
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.TramThuPhi.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.TinhThanh.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.KhachHang.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.TheTagg.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.VeThu.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.Xe.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.Policy.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.AddPolicy.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.DeletePolicy.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.GUI.TableSpace.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.GUI.Profile.resources
+C:\Users\kingg\source\repos\Login\Login\obj\Debug\Login.GUI.User.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Login.exe.config
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Login.exe
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Login.pdb
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Buffers.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Memory.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Text.Json.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.ValueTuple.dll
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Buffers.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Memory.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Text.Json.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\bin\Debug\System.ValueTuple.xml
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.AddPolicy.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.DangNhap.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.DeletePolicy.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.KhachHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.Policy.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.GUI.Profile.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.GUI.TableSpace.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.GUI.User.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.TheTagg.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.TinhThanh.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.TramThuPhi.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.TrangChinh.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.VeThu.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.Xe.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.csproj.CopyComplete
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.exe
+C:\Users\PC\Documents\Zalo Received Files\Nhom2_ThuPhiTuDongETC\Login\Login\obj\Debug\Login.pdb
